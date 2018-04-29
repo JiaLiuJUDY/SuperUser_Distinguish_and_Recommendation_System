@@ -1,0 +1,12 @@
+name: shinyproject
+title: shinyproject
+username:
+account: jliu647shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 330595
+bundleId: 1340077
+url: https://jliu647shiny.shinyapps.io/shinyproject/
+when: 1524714080.6055
+asMultiple: FALSE
+asStatic: FALSE
